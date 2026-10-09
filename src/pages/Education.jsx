@@ -1,5 +1,5 @@
 import { education } from "../assets/content"
-import Educationcard from "../components/Educationcard"
+import Educationcard from "../components/Educationcard.jsx"
 
 function Education() {
   return (

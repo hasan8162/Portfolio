@@ -1,4 +1,4 @@
-import Cp from "../components/Cp"
+import Cp from "../components/Cp.jsx"
 import { Solving } from "../assets/content.js"
 
 function ProblemSolving() {

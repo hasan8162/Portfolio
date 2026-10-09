@@ -1,4 +1,4 @@
-import Projectcard from "../components/Projectcard"
+import Projectcard from "../components/Projectcard.jsx"
 import { Myprojects } from "../assets/content"
 
 function Projects() {

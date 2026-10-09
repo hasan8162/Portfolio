@@ -1,4 +1,4 @@
-import Achievementcard from "../components/Achievementcard"
+import Achievementcard from "../components/Achievementcard.jsx"
 import { Myachivements } from "../assets/content"
 
 function Achievements() {
