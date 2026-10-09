@@ -1,5 +1,5 @@
 import { skills } from "../assets/content"
-import Skillcard from "../components/SkillCard.jsx"
+import Skillcard from "../components/Skillcard.jsx"
 
 function Skills() {
   return (

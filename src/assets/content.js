@@ -1,5 +1,5 @@
 import codeforces from "./codeforces.jpg"
-import leetcode from "./Leetcode.png"
+import leetcode from "./LeetCode.png"
 import codechef from "./codechef.jpg"
 import simon from "./simon.png"
 import food from "./food.png"
